@@ -1,0 +1,5 @@
+export ARCHISO_NAME="archworkstation"
+export ARCHISO_VERSION="snapshot"
+export ARCHISO_LABEL="ARCHWS"
+export ARCHISO_PUBLISHER="Joona Romppanen <ptMuta@github>"
+export ARCHISO_APPLICATION_NAME="A lightweight Arch Linux Live CD workstation"
