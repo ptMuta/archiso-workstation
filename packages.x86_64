@@ -74,27 +74,29 @@ vim
 xorg-server
 xorg-xbacklight
 xorg-xdm
+xorg-xrdb
 xorg-xinit
 
 # Xorg drivers
 xf86-input-synaptics
 xf86-input-vmmouse
-#xf86-video-amdgpu
-#xf86-video-ati
-#xf86-video-dummy
 xf86-video-fbdev
-#xf86-video-intel
-#xf86-video-nouveau
-#xf86-video-openchrome
-#xf86-video-vesa
-#xf86-video-vmware
-#xf86-video-voodoo
+xf86-video-intel
 
 # Desktop environment
 ttf-liberation
 powerline-fonts
+
 lxdm
+compton
+dunst
+xss-lock
+nitrogen
+
 i3-gaps
 i3status
 i3lock
 i3blocks
+
+rxvt-unicode
+
